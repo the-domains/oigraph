@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[oigraph]]></title>
         <description><![CDATA[oigraph]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oigraph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 04:29:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 04:30:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oigraph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ArangoDB Bi-Weekly #43 | Release 2.8.2 with Replication Improvements & more - ArangoDB]]></title>
+            <description><![CDATA[<article><h1>ArangoDB Bi-Weekly #43 | Release 2.8.2 with Replication Improvements & more - ArangoDB</h1><p>ArangoDB gains more and more traction in 2016! The whole team is amazed by the feedback of our users and the accelerating number of Stargazers and Contributors joining the ArangoDB Community. Big thanks to all of you from the US, Brazil, India and Europe... you make everything possible!</p><img src="https://www.arangodb.com/wp-includes/images/smilies/simple-smile.png"></article>]]></description>
+            <link>https://www.arangodb.com/2016/02/bi-weekly-newsletter-43-february-12th-2016/</link>
+            <guid isPermaLink="false">0201b24a-adab-4d2d-91e6-b4eb0404ace6</guid>
+            <pubDate>Sat, 13 Feb 2016 04:29:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>some</p>]]></description>
-            <link>undefinedsome/index.html</link>
+            <link>https://thegrid.ai/oigraph/some/index.html</link>
             <guid isPermaLink="false">db884c53-e24e-4610-b2dd-6e65217c2b85</guid>
             <pubDate>Sat, 13 Feb 2016 04:29:27 GMT</pubDate>
         </item>
