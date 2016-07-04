@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Jana Volkova
-    url: 'https://www.arangodb.com/author/jana/'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.arangodb.com'
-  name: ArangoDB
-  favicon: 'https://www.arangodb.com/wp-content/themes/arangodb-wp-theme/images/favicon.ico'
-  domain: www.arangodb.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.arangodb.com/2016/02/bi-weekly-newsletter-43-february-12th-2016/'
+inLanguage: en
 keywords:
   - arangodb
   - download
@@ -20,18 +15,32 @@ keywords:
   - release
   - cookbook
   - stargazers
-description: 'ArangoDB gains more and more traction in 2016! The whole team is amazed by the feedback of our users and the accelerating number of Stargazers and Contributors joining the ArangoDB Community. Big thanks to all of you from the US, Brazil, India and Europe... you make everything possible!'
-inLanguage: en
+description: >-
+  ArangoDB gains more and more traction in 2016! The whole team is amazed by the
+  feedback of our users and the accelerating number of Stargazers and
+  Contributors joining the ArangoDB Community. Big thanks to all of you from the
+  US, Brazil, India and Europe... you make everything possible!
+datePublished: '2016-07-04T13:28:11.941Z'
+dateModified: '2016-07-04T13:27:53.983Z'
+author:
+  - name: Jana Volkova
+    url: 'https://www.arangodb.com/author/jana/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.arangodb.com/2016/02/bi-weekly-newsletter-43-february-12th-2016/'
-title: 'ArangoDB Bi-Weekly #43 | Release 2.8.2 with Replication Improvements & more - ArangoDB'
-datePublished: '2016-02-13T04:29:27.981Z'
-dateModified: '2016-02-13T04:22:13.088Z'
-sourcePath: _posts/2016-02-13-arangodb-bi-weekly-43-or-release-282-with-replication-impr.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+title: >-
+  ArangoDB Bi-Weekly #43 | Release 2.8.2 with Replication Improvements & more -
+  ArangoDB
+sourcePath: >-
+  _posts/2016-02-13-arangodb-bi-weekly-43-or-release-282-with-replication-impr.md
+authors: []
+publisher:
+  name: ArangoDB
+  domain: www.arangodb.com
+  url: 'https://www.arangodb.com'
+  favicon: >-
+    https://www.arangodb.com/wp-content/themes/arangodb-wp-theme/images/favicon.ico
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
