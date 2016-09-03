@@ -1,19 +1,4 @@
-name: oigraph
-favicon: null
-layout_spectrum: 0.91032
 typography_spectrum: 0.4199314534198493
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e3e3e3'
@@ -25,4 +10,20 @@ color:
   lightness: 0.3640214407350868
   saturation: 0.6976308431476355
   rhythmicContrast: 0.6492150197736919
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.91032
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: oigraph
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: everywhere graphs
 purpose: []
